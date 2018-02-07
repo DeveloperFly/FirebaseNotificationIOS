@@ -1,0 +1,6 @@
+framework module Pods_FirebaseNotificationIOSTests {
+  umbrella header "Pods-FirebaseNotificationIOSTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
